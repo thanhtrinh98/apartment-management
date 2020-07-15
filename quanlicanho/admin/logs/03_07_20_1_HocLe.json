@@ -1,0 +1,23 @@
+{
+    "mathue": 17,
+    "tennguoithue": "Học Lê",
+    "cmnd": 2147483647,
+    "dob": "1998-06-03",
+    "quequan": "Tây Ninh",
+    "sodienthoai": 325545481,
+    "sex": 1,
+    "ngaythue": "2020-06-18",
+    "sophong": 1,
+    "nguoithuecung": [],
+    "dichvu": [
+        {
+            "tenDv": "Internet cáp quang",
+            "Price": "220000"
+        },
+        {
+            "tenDv": "Truyền hình cáp",
+            "Price": "50000"
+        }
+    ],
+    "debt": []
+}

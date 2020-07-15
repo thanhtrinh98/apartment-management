@@ -1,0 +1,32 @@
+{
+    "mathue": 18,
+    "tennguoithue": "Trịnh Trọng Thành",
+    "cmnd": 281145689,
+    "dob": "1998-06-27",
+    "quequan": "Bình Dương",
+    "sodienthoai": 362733555,
+    "sex": 1,
+    "ngaythue": "2020-07-15",
+    "sophong": 13,
+    "nguoithuecung": [
+        {
+            "name": "Trần Văn Giàu",
+            "cmnd": "283351487",
+            "dob": "1998-10-20",
+            "quequan": "Bình Dương",
+            "sodienthoai": "0362158447",
+            "sex": "1"
+        }
+    ],
+    "dichvu": [
+        {
+            "tenDv": "Internet cáp quang",
+            "Price": "220000"
+        },
+        {
+            "tenDv": "Truyền hình cáp",
+            "Price": "50000"
+        }
+    ],
+    "debt": []
+}
