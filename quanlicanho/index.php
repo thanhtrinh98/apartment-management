@@ -45,6 +45,10 @@
 						</span>
 					</div>
 
+
+
+
+
 					<div class="wrap-input100 validate-input" data-validate = "Hãy nhập password của bạn">
 						<input class="input100" type="password" name="password" placeholder=" Mật Khẩu" id="password" >
 						<span class="focus-input100"></span>
@@ -72,6 +76,8 @@
 			</div>
 		</div>
 	</div>
+	
+
 	
 	
 
